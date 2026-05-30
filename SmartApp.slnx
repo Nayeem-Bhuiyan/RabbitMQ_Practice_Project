@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SmartApp.API/SmartApp.API.csproj" />
+    <Project Path="src/SmartApp.Application/SmartApp.Application.csproj" />
+    <Project Path="src/SmartApp.Domain/SmartApp.Domain.csproj" />
+    <Project Path="src/SmartApp.Infrastructure/SmartApp.Infrastructure.csproj" />
+    <Project Path="src/SmartApp.Shared/SmartApp.Shared.csproj" />
+    <Project Path="src/SmartApp.Worker/SmartApp.Worker.csproj" />
+  </Folder>
+</Solution>
